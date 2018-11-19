@@ -12,5 +12,5 @@ virtualenvwrapper
 
 
 ## Running...
-```jupyter notebook
+```jupyter notebook```
 
